@@ -1,1 +1,1 @@
-![spx_gamma](demo/spx_gamma.PNG)
+![spx_gamma](demo/spx_gamma.png)
